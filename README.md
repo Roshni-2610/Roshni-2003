@@ -1,5 +1,2 @@
- What’s Inside ?
-Beginner-friendly code samples
-Mini projects for practice
-Experiments with different programming concepts
-Clean and easy-to-understand structure
+
+To track my learning journey and improve my understanding of programming by building simple, hands-on projects.
