@@ -1,39 +1,61 @@
 # Single-Page HTML CV
 
-This project demonstrates how to create a structured, semantic single-page CV using **only HTML**.  
-No CSS or JavaScript is used in this stage — the focus is fully on proper HTML structure.
+This project demonstrates how to create a structured, semantic single-page CV using **only HTML**. The focus is on understanding HTML layout before adding CSS in later stages.
 
 ---
 
-## 📄 Project URL
+## 📄 Project Page URL
 
-**Live Demo / Project URL:**  
-http://127.0.0.1:5500/Cv.html
+**Local Project URL:**
+[http://127.0.0.1:5500/Cv.html](http://127.0.0.1:5500/Cv.html)
 
-> Replace this with your actual deployed link (GitHub Pages, Netlify, Vercel, etc.)
+> ⚠️ Note: This link works **only on your own computer** because it points to `127.0.0.1` (localhost).
+> If you want a link that others can access, publish the project on **GitHub Pages**, **Netlify**, or **Vercel**, and I can add that public link here.
 
 ---
 
 ## 📘 Project Overview
 
-The goal of this project is to:
+This project teaches:
 
-- Build a clean single-page CV using semantic HTML
-- Organize sections such as Profile, Education, Skills, Experience, Projects, and Contact
-- Use HTML5 elements like `<header>`, `<main>`, `<section>`, `<article>`, `<address>`
-- Create a fully functional layout before adding CSS later
+* How to create a single-page CV using semantic HTML
+* How to structure content using `<header>`, `<main>`, `<section>`, `<article>`, `<nav>`, and `<address>`
+* How to build a clean HTML foundation before adding CSS
 
 ---
 
 ## 📂 Files Included
 
-- `CV.html` — The main HTML file containing the full CV
+* `Cv.html` — The main HTML file for the project
 
 ---
 
 ## 🚀 How to View the Project
 
-1. Download or clone this repository.
+1. Download or clone the repository.
 2. Open the file:
+
+   ```
+   Cv.html
+   ```
+3. Double-click the file or open it with your browser.
+
+---
+
+## 📝 Next Steps
+
+* Add CSS for layout and spacing
+* Make the CV responsive
+* Add design improvements and colors
+* Create a downloadable PDF version
+
+---
+
+## 👩‍💻 Author
+
+**Roshni**
+Email: **[roshninaren26@gmail.com](mailto:roshninaren26@gmail.com)**
+
+
 
 
