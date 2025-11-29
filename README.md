@@ -7,7 +7,7 @@ This project demonstrates how to create a structured, semantic single-page CV us
 ## 📄 Project Page URL
 
 **Local Project URL:**
-https://roshni-2610.github.io/Roshni-2003/
+http://127.0.0.1:5500/Cv.html
 
 > ⚠️ Note: This link works **only on your own computer** because it points to `127.0.0.1` (localhost).
 > If you want a link that others can access, publish the project on **GitHub Pages**, **Netlify**, or **Vercel**, and I can add that public link here.
